@@ -64,3 +64,7 @@ ctrl + alt - s : yabai --start-service
 ctrl + alt - r : yabai --restart-service
 
 # focus space 
+# to-do
+# seems not possible without disabling macOS SIP for skhd sa access
+# use ctrl -> <- instead
+
